@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Malibongwe from 🇿🇦<br><br>- 🔭 I’m working on being a cracked software developer.<br>- 📚 I'm currently learning network programming.<br>- ⚡ In my free time I watch a video or two.</p>
+<p align="left">I'm Malibongwe from 🇿🇦<br><br>- 🚀 Writing bugs since the dwan of time.<br>- 🔭 I’m working on being a cracked software developer.<br>- 📚 I'm currently learning network programming.<br>- ⚡ In my free time I watch a video or two.</p>
 
 ###
 
