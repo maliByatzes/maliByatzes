@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Malibongwe from 🇿🇦<br><br>- 🚀 Writing bugs since the dawn of time.<br>- 🔭 I’m working on being a cracked software developer.<br>- ⚡ In my free time I watch a video or two.</p>
+<p align="left">I'm Malibongwe from 🇿🇦<br><br>- 🚀 Writing bugs since the dawn of time.<br>- 🔭 I’m working on being a cracked software developer.<br>- ⚡  In my free time I watch a video or two.</p>
 
 ###
 
