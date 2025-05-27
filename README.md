@@ -110,7 +110,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/maliByatzes/maliByatzes/output/snake.svg" alt="Snake animation" />
-
-###
